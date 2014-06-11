@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Skynet">
+        <dependent-module archiveName="PersonalKanban.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/PersonalKanban/PersonalKanban">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="Skynet"/>
+        <property name="java-output-path" value="/Skynet/build/classes"/>
+    </wb-module>
+</project-modules>
